@@ -1,8 +1,10 @@
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background: linear-gradient(135deg, #ffA500, #ff4500, #800080);
+    background: linear-gradient(135deg, #000000, #8B0000); /* Noir mélangé à du rouge */
     padding: 20px;
+    color: white;
 }
 
 h1 {
